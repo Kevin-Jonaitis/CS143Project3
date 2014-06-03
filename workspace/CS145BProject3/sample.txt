@@ -1,0 +1,23 @@
+in
+cr foo
+op foo
+cr abc
+op abc
+wr 1 x 60
+wr 1 y 10
+wr 2 t 300
+rd 1 10
+sk 1 66
+rd 1 1000
+sk 2 300
+rd 2 1
+op abc
+rd 2 3000
+dr
+sv disk0.txt
+op foo
+rd 1 300
+cr foo
+cl 1
+cl 2
+dr

@@ -1,0 +1,9 @@
+disk initialized
+foo created
+foo opened 1
+abc created
+abc opened 2
+60 bytes written
+10 bytes written
+192 bytes written
+position is 66
